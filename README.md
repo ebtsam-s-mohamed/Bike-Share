@@ -1,1 +1,1 @@
-# Fortfolio
+In this project i used BikeShare Us data set. To build a python interactive program which display data analysis findings according to users inputs with a good error handling whenever there is invalid inputs.
